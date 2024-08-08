@@ -1,0 +1,13 @@
+{
+"AdsController": {
+  "showAds":true,
+  "InterAd": "admob",
+  "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+  "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+  "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+ "Quizurl": "https://play.google.com/store/apps/details?id=infoteach.kidsgame.kidslearninggame",
+  "BannerQuiz": "https://i.ibb.co/fCyq3wF/bannerquiz.jpg",
+  "InterstitialQuiz": "https://i.ibb.co/HDXLbyS/ageclc-Rct.jpg",
+  "AdsClick": 2
+}
+}
