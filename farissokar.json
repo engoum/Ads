@@ -8,13 +8,13 @@
     "ad_native" : "fan",
     "openapp" : "fan",
     "back_up" : "none",
-    "ad_interval" : 3 ,
+    "ad_interval" : 5 ,
     
     "AdMob": {
-      "banner": "ca-app-pub-3089643876187859/1826913211",
-      "interstitial": "ca-app-pub-3089643876187859/7260973222",
-      "native": "ca-app-pub-3089643876187859/2597903551",
-      "appopen" : "ca-app-pub-3940256099942544/3419835294"
+      "banner": "ca-app-pub-3089643876187859/3851716417",
+      "interstitial": "ca-app-pub-3089643876187859/4798902352",
+      "native": "",
+      "appopen" : ""
     },
     
     "ironSource": {
