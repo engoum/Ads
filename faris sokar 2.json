@@ -1,6 +1,6 @@
 {
   "Ads": {
-    "ad_status" : "false",
+    "ad_status" : "true",
     "ad_interval" : 3 ,
     
     "AdMob": {
