@@ -8,7 +8,7 @@
     "ad_native" : "admob",
     "openapp" : "admob",
     "back_up" : "none",
-    "ad_interval" : 8 ,
+    "ad_interval" : 6 ,
     
     "AdMob": {
       "banner": "ca-app-pub-3060567458459311/3347375801",
