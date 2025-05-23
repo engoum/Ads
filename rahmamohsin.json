@@ -8,7 +8,7 @@
     "ad_native" : "admob",
     "openapp" : "admob",
     "back_up" : "none",
-    "ad_interval" : 4 ,
+    "ad_interval" : 8 ,
     
     "AdMob": {
       "banner": "",
